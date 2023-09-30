@@ -12,3 +12,6 @@
 
 # Скриншоты тестов:
 
+![Alt-текст](https://github.com/tbogolyubov/Application-programming/blob/main/отладка-1.jpg)
+
+![Alt-текст](https://github.com//tbogolyubov/Application-programming/blob/main/отладка-2.jpg)
